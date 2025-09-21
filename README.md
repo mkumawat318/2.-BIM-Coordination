@@ -1,2 +1,2 @@
-# 2.BIM-Coordination
+# BIM-Coordination
 Performed Clash detection for BIM coordination using ACC/Navisworks
